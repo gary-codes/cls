@@ -76,10 +76,10 @@ body{
         text-align: center;
         align-items: center;
         width: 410px;
-        font-size: 24px;
+        font-size: 23px;
         top: 50%;
         left: 50%;
-        transform: translate(-48%, -80%);
+        transform: translate(-47%, -80%);
         position: absolute;
         display: flex;
     }
@@ -118,10 +118,10 @@ body{
         text-align: center;
         align-items: center;
         width: 370px;
-        font-size: 21px;
+        font-size: 20px;
         top: 50%;
         left: 50%;
-        transform: translate(-48%, -80%);
+        transform: translate(-45%, -80%);
         position: absolute;
         display: flex;
     }
@@ -160,10 +160,10 @@ body{
         text-align: center;
         align-items: center;
         width: 320px;
-        font-size: 18px;
+        font-size: 17px;
         top: 50%;
         left: 50%;
-        transform: translate(-48%, -80%);
+        transform: translate(-45%, -80%);
         position: absolute;
         display: flex;
     }
@@ -202,10 +202,10 @@ body{
         text-align: center;
         align-items: center;
         width: 280px;
-        font-size: 15px;
+        font-size: 14px;
         top: 50%;
         left: 50%;
-        transform: translate(-48%, -80%);
+        transform: translate(-45%, -80%);
         position: absolute;
         display: flex;
     }
