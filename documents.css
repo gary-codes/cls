@@ -33,11 +33,9 @@ body{
         left: 50%;
         transform: translate(-50%, -50%);
         position: absolute;
-        display: flex;
     }
     .particles-js-canvas-el{
         display: flex;
-        height: 100%;
         position: absolute;
       }
 }
@@ -50,11 +48,9 @@ body{
         left: 50%;
         transform: translate(-50%, -50%);
         position: absolute;
-        display: flex;
     }
     .particles-js-canvas-el{
         display: flex;
-        height: 100%;
         position: absolute;
       }
 }
@@ -71,7 +67,6 @@ body{
     }
     .particles-js-canvas-el{
         display: flex;
-        height: 100%;
         position: absolute;
     }
 }
@@ -84,11 +79,9 @@ body{
         left: 50%;
         transform: translate(-50%, -50%);
         position: absolute;
-        display: flex;
     }
     .particles-js-canvas-el{
         display: flex;
-        height: 100%;
         position: absolute;
     }
 }
