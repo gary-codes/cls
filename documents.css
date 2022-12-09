@@ -26,57 +26,69 @@ body{
 }
 @media screen and (max-width: 768px) {
     .out{
-        display: flex;
-        width: 750px;
         text-align: center;
-        align-items: center;
+        width: 710px;
         font-size: 24px;
-        margin-left: 15px;
-        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        display: flex;
     }
     .particles-js-canvas-el{
-        display: none;
+        display: flex;
+        height: 100%;
+        position: absolute;
       }
 }
 @media screen and (max-width: 425px) {
     .out{
-        display: flex;
-        width: 400px;
         text-align: center;
-        align-items: center;
+        width: 400px;
         font-size: 21px;
-        margin-left: 15px;
-        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        display: flex;
     }
     .particles-js-canvas-el{
-        display: none;
+        display: flex;
+        height: 100%;
+        position: absolute;
       }
 }
 @media screen and (max-width: 375px) {
     .out{
-        display: flex;
-        width: 350px;
         text-align: center;
-        align-items: center;
+        width: 350px;
         font-size: 18px;
-        margin-left: 15px;
-        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        display: flex;
     }
     .particles-js-canvas-el{
-        display: none;
-      }
+        display: flex;
+        height: 100%;
+        position: absolute;
+    }
 }
 @media only screen and (max-width: 320px){
     .out{
-        display: flex;
-        width: 300px;
         text-align: center;
-        align-items: center;
+        width: 300px;
         font-size: 15px;
-        margin-left: 10px;
-        position: relative;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        position: absolute;
+        display: flex;
     }
     .particles-js-canvas-el{
-      display: none;
+        display: flex;
+        height: 100%;
+        position: absolute;
     }
 }
