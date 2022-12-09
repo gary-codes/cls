@@ -111,7 +111,7 @@ body{
         display: flex;
         height: 100%;
         position: absolute;
-      }
+    }
 }
 @media screen and (max-width: 425px) {
     .question{
