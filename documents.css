@@ -24,14 +24,57 @@ body{
     margin-left: 360px;
     display: flex;
 }
-@media screen and (max-width: 320px){
+@media screen and (max-width: 768px) {
     .out{
+        display: flex;
+        width: 750px;
+        text-align: center;
+        align-items: center;
+        font-size: 24px;
+        margin-left: 15px;
+        position: relative;
+    }
+    .particles-js-canvas-el{
+        display: none;
+      }
+}
+@media screen and (max-width: 425px) {
+    .out{
+        display: flex;
+        width: 400px;
+        text-align: center;
+        align-items: center;
+        font-size: 21px;
+        margin-left: 15px;
+        position: relative;
+    }
+    .particles-js-canvas-el{
+        display: none;
+      }
+}
+@media screen and (max-width: 375px) {
+    .out{
+        display: flex;
+        width: 350px;
+        text-align: center;
+        align-items: center;
+        font-size: 18px;
+        margin-left: 15px;
+        position: relative;
+    }
+    .particles-js-canvas-el{
+        display: none;
+      }
+}
+@media only screen and (max-width: 320px){
+    .out{
+        display: flex;
         width: 300px;
         text-align: center;
         align-items: center;
-        display: flex;
         font-size: 15px;
-        margin-left: 15px;
+        margin-left: 10px;
+        position: relative;
     }
     .particles-js-canvas-el{
       display: none;
