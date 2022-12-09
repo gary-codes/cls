@@ -20,7 +20,7 @@ body{
     display: flex;
     position:absolute;
     text-align: center;
-    width: 330px;
+    width: 350px;
     padding: 25px;
     top: 50%;
     left: 50%;
@@ -42,7 +42,7 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-140%, -10%);
+    transform: translate(-150%, -10%);
     cursor: pointer;
 }
 .oo:hover {
@@ -62,7 +62,7 @@ body{
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-20%, -10%);
+    transform: translate(-30%, -10%);
     cursor: pointer;
 }
 .hindi:hover {
@@ -79,7 +79,7 @@ body{
         font-size: 23px;
         top: 50%;
         left: 50%;
-        transform: translate(-47%, -80%);
+        transform: translate(-50%, -80%);
         position: absolute;
         display: flex;
     }
@@ -102,7 +102,7 @@ body{
         font-size: 24px;
         top: 50%;
         left: 50%;
-        transform: translate(10%, 5%);
+        transform: translate(0%, 5%);
         position: absolute;
         display: flex;
         justify-content: center;
@@ -117,11 +117,11 @@ body{
     .question{
         text-align: center;
         align-items: center;
-        width: 370px;
+        width: 350px;
         font-size: 20px;
         top: 50%;
         left: 50%;
-        transform: translate(-45%, -80%);
+        transform: translate(-50%, -80%);
         position: absolute;
         display: flex;
     }
@@ -132,7 +132,7 @@ body{
         font-size: 21px;
         top: 50%;
         left: 50%;
-        transform: translate(-110%, 5%);
+        transform: translate(-105%, 5%);
         position: absolute;
         display: flex;
         justify-content: center;
@@ -144,7 +144,7 @@ body{
         font-size: 21px;
         top: 50%;
         left: 50%;
-        transform: translate(10%, 5%);
+        transform: translate(0%, 5%);
         position: absolute;
         display: flex;
         justify-content: center;
@@ -159,11 +159,11 @@ body{
     .question{
         text-align: center;
         align-items: center;
-        width: 320px;
+        width: 310px;
         font-size: 17px;
         top: 50%;
         left: 50%;
-        transform: translate(-45%, -80%);
+        transform: translate(-50%, -80%);
         position: absolute;
         display: flex;
     }
@@ -174,7 +174,7 @@ body{
         font-size: 18px;
         top: 50%;
         left: 50%;
-        transform: translate(-110%, 5%);
+        transform: translate(-105%, 5%);
         position: absolute;
         display: flex;
         justify-content: center;
@@ -186,7 +186,7 @@ body{
         font-size: 18px;
         top: 50%;
         left: 50%;
-        transform: translate(10%, 5%);
+        transform: translate(0%, 5%);
         position: absolute;
         display: flex;
         justify-content: center;
@@ -201,11 +201,11 @@ body{
     .question{
         text-align: center;
         align-items: center;
-        width: 280px;
+        width: 260px;
         font-size: 14px;
         top: 50%;
         left: 50%;
-        transform: translate(-45%, -80%);
+        transform: translate(-50%, -80%);
         position: absolute;
         display: flex;
     }
@@ -216,7 +216,7 @@ body{
         font-size: 15px;
         top: 50%;
         left: 50%;
-        transform: translate(-110%, 5%);
+        transform: translate(-105%, 5%);
         position: absolute;
         display: flex;
         justify-content: center;
@@ -228,7 +228,7 @@ body{
         font-size: 15px;
         top: 50%;
         left: 50%;
-        transform: translate(10%, 5%);
+        transform: translate(0%, 5%);
         position: absolute;
         display: flex;
         justify-content: center;
