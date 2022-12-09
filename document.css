@@ -31,7 +31,8 @@ body{
 .oo{
     border: none;
     border-radius: 5px;
-    display: flexbox;
+    display: flex;
+    justify-content: center;
     width: 100px;
     padding: 10px;
     font-weight: 600;
@@ -56,7 +57,8 @@ body{
     font-weight: 600;
     background-color: green;
     color: black;
-    display: flexbox;
+    display: flex;
+    justify-content: center;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -147,9 +149,6 @@ body{
         display: flex;
         justify-content: center;
     }
-    .yes{
-        display: none;
-    }
     .particles-js-canvas-el{
         display: flex;
         height: 100%;
@@ -192,9 +191,6 @@ body{
         display: flex;
         justify-content: center;
     }
-    .yes{
-        display: none;
-    }
     .particles-js-canvas-el{
         display: flex;
         height: 100%;
@@ -236,9 +232,6 @@ body{
         position: absolute;
         display: flex;
         justify-content: center;
-    }
-    .yes{
-        display: none;
     }
     .particles-js-canvas-el{
         display: flex;
