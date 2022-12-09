@@ -26,55 +26,12 @@ body{
 }
 @media screen and (max-width: 320px){
     .out{
-        border-style: groove;
         width: 300px;
         text-align: center;
         align-items: center;
         display: flex;
         font-size: 15px;
         margin-left: 15px;
-    }
-    .particles-js-canvas-el{
-      display: none;
-    }
-}
-@media screen and (max-width: 375px){
-    .out{
-        border-style: groove;
-        width: 370px;
-        text-align: center;
-        align-items: center;
-        display: flex;
-        font-size: 18px;
-        margin-left: 0px;
-    }
-    .particles-js-canvas-el{
-      display: none;
-    }
-}
-@media screen and (max-width: 425px){
-    .out{
-        border-style: groove;
-        width: 400px;
-        text-align: center;
-        align-items: center;
-        display: flex;
-        font-size: 20px;
-        margin-left: 12px;
-    }
-    .particles-js-canvas-el{
-      display: none;
-    }
-}
-@media screen and (max-width: 768px){
-    .out{
-        border-style: groove;
-        width: 600px;
-        text-align: center;
-        align-items: center;
-        display: flex;
-        font-size: 35px;
-        margin-left: 100px;
     }
     .particles-js-canvas-el{
       display: none;
