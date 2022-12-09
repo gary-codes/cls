@@ -147,6 +147,9 @@ body{
         display: flex;
         justify-content: center;
     }
+    .yes{
+        display: none;
+    }
     .particles-js-canvas-el{
         display: flex;
         height: 100%;
@@ -189,6 +192,9 @@ body{
         display: flex;
         justify-content: center;
     }
+    .yes{
+        display: none;
+    }
     .particles-js-canvas-el{
         display: flex;
         height: 100%;
@@ -230,6 +236,9 @@ body{
         position: absolute;
         display: flex;
         justify-content: center;
+    }
+    .yes{
+        display: none;
     }
     .particles-js-canvas-el{
         display: flex;
