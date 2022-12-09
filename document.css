@@ -90,7 +90,8 @@ body{
         left: 50%;
         transform: translate(-110%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .hindi{
         text-align: center;
@@ -101,7 +102,8 @@ body{
         left: 50%;
         transform: translate(10%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .particles-js-canvas-el{
         display: flex;
@@ -130,7 +132,8 @@ body{
         left: 50%;
         transform: translate(-110%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .hindi{
         text-align: center;
@@ -141,7 +144,8 @@ body{
         left: 50%;
         transform: translate(10%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .particles-js-canvas-el{
         display: flex;
@@ -170,7 +174,8 @@ body{
         left: 50%;
         transform: translate(-110%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .hindi{
         text-align: center;
@@ -181,7 +186,8 @@ body{
         left: 50%;
         transform: translate(10%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .particles-js-canvas-el{
         display: flex;
@@ -210,7 +216,8 @@ body{
         left: 50%;
         transform: translate(-110%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .hindi{
         text-align: center;
@@ -221,7 +228,8 @@ body{
         left: 50%;
         transform: translate(10%, -10%);
         position: absolute;
-        display: flexbox;
+        display: flex;
+        justify-content: center;
     }
     .particles-js-canvas-el{
         display: flex;
