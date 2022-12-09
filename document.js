@@ -1,5 +1,5 @@
 function myfunction() {
-    location.href = "next.html";
+    location.href = "Documents.html";
 }
 
 var b = document.querySelector(".hindi");
