@@ -24,26 +24,57 @@ body{
     margin-left: 360px;
     display: flex;
 }
-@media screen and (min-width: 320px) and (max-width: 480px) {
+@media screen and (max-width: 320px){
     .out{
-    width: 300px;
+        border-style: groove;
+        width: 300px;
         text-align: center;
         align-items: center;
         display: flex;
         font-size: 15px;
-        margin-left: 10px;
+        margin-left: 15px;
     }
     .particles-js-canvas-el{
       display: none;
     }
 }
-@media screen and (min-width: 768px) and (max-width: 1024px) {
+@media screen and (max-width: 375px){
     .out{
+        border-style: groove;
+        width: 370px;
         text-align: center;
         align-items: center;
         display: flex;
-        font-size: 9px;
-        margin-left: 5px;
+        font-size: 18px;
+        margin-left: 0px;
+    }
+    .particles-js-canvas-el{
+      display: none;
+    }
+}
+@media screen and (max-width: 425px){
+    .out{
+        border-style: groove;
+        width: 400px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        font-size: 20px;
+        margin-left: 12px;
+    }
+    .particles-js-canvas-el{
+      display: none;
+    }
+}
+@media screen and (max-width: 768px){
+    .out{
+        border-style: groove;
+        width: 600px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        font-size: 35px;
+        margin-left: 100px;
     }
     .particles-js-canvas-el{
       display: none;
