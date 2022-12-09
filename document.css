@@ -75,11 +75,11 @@ body{
     .question{
         text-align: center;
         align-items: center;
-        width: 710px;
+        width: 410px;
         font-size: 24px;
         top: 50%;
         left: 50%;
-        transform: translate(-28%, -80%);
+        transform: translate(-48%, -80%);
         position: absolute;
         display: flex;
     }
@@ -117,11 +117,11 @@ body{
     .question{
         text-align: center;
         align-items: center;
-        width: 400px;
+        width: 370px;
         font-size: 21px;
         top: 50%;
         left: 50%;
-        transform: translate(-45%, -80%);
+        transform: translate(-48%, -80%);
         position: absolute;
         display: flex;
     }
@@ -159,11 +159,11 @@ body{
     .question{
         text-align: center;
         align-items: center;
-        width: 350px;
+        width: 320px;
         font-size: 18px;
         top: 50%;
         left: 50%;
-        transform: translate(-45%, -80%);
+        transform: translate(-48%, -80%);
         position: absolute;
         display: flex;
     }
@@ -201,11 +201,11 @@ body{
     .question{
         text-align: center;
         align-items: center;
-        width: 300px;
+        width: 280px;
         font-size: 15px;
         top: 50%;
         left: 50%;
-        transform: translate(-45%, -80%);
+        transform: translate(-48%, -80%);
         position: absolute;
         display: flex;
     }
